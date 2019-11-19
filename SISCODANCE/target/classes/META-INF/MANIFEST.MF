@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SISCODANCE
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Elquis
+Implementation-Vendor-Id: siscodance.edu.pe
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SiscodanceApp
+Created-By: Maven Integration for Eclipse
+
